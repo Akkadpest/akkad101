@@ -1,0 +1,272 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Akkad Pest Control",
+  "image": "https://www.pestcontrol.ae/logo.png",
+  "priceRange": "$$",
+  "url": "https://www.pestcontrol.ae/",
+  "telephone": "+971 4 396 6211",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Barsha Heights",
+    "addressLocality": "Dubai",
+    "addressRegion": "Dubai, United Arab Emirates",
+    "postalCode": "0000",
+    "addressCountry": "AE"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "1391"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "John Doe"
+      },
+      "datePublished": "2024-09-20",
+      "reviewBody": "Great service, very professional team!",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Jane Smith"
+      },
+      "datePublished": "2024-09-22",
+      "reviewBody": "Quick response and effective pest control solutions.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Sarah Taylor"
+      },
+      "datePublished": "2024-09-23",
+      "reviewBody": "Amazing service and attention to detail.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Michael Brown"
+      },
+      "datePublished": "2024-09-24",
+      "reviewBody": "They handled our pest problem quickly and efficiently.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Olivia Green"
+      },
+      "datePublished": "2024-09-25",
+      "reviewBody": "Good service but slightly expensive.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "James Wilson"
+      },
+      "datePublished": "2024-09-26",
+      "reviewBody": "Prompt response and excellent results.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Emily Johnson"
+      },
+      "datePublished": "2024-09-27",
+      "reviewBody": "Professional team and great customer service.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Liam Martinez"
+      },
+      "datePublished": "2024-09-28",
+      "reviewBody": "Effective pest control solutions. Highly recommend!",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Sophia Anderson"
+      },
+      "datePublished": "2024-09-29",
+      "reviewBody": "Satisfied with the results, but arrival was delayed.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Noah Harris"
+      },
+      "datePublished": "2024-09-30",
+      "reviewBody": "The team was knowledgeable and very professional.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Isabella Clark"
+      },
+      "datePublished": "2024-10-01",
+      "reviewBody": "Excellent service! No more pests in sight.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "William Lewis"
+      },
+      "datePublished": "2024-10-02",
+      "reviewBody": "Friendly staff and quick results. A bit pricey.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Ava Rodriguez"
+      },
+      "datePublished": "2024-10-03",
+      "reviewBody": "Very thorough and effective pest control.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Lucas Walker"
+      },
+      "datePublished": "2024-10-04",
+      "reviewBody": "Pleased with the service. No issues since treatment.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Mia Hall"
+      },
+      "datePublished": "2024-10-05",
+      "reviewBody": "Good service, but there was a delay in scheduling.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Elijah Scott"
+      },
+      "datePublished": "2024-10-06",
+      "reviewBody": "Knowledgeable team and effective treatment.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Amelia Young"
+      },
+      "datePublished": "2024-10-07",
+      "reviewBody": "Quick and efficient pest control. Very satisfied!",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Alexander King"
+      },
+      "datePublished": "2024-10-08",
+      "reviewBody": "Effective, but I expected a faster response time.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Harper Wright"
+      },
+      "datePublished": "2024-10-09",
+      "reviewBody": "The pests were gone within days. Excellent work!",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5"
+      }
+    }
+ 
+  ]
+}

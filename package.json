@@ -1,0 +1,40 @@
+{
+  "name": "akkadenglish",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "postbuild": "next-sitemap",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fingerprintjs/fingerprintjs-pro-react": "^2.6.3",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@next/third-parties": "^15.1.5",
+    "@popperjs/core": "^2.11.8",
+    "@reduxjs/toolkit": "^2.11.2",
+    "@vis.gl/react-google-maps": "^1.7.1",
+    "autoprefixer": "^10.4.24",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "clsx": "^2.1.1",
+    "dayjs": "^1.11.19",
+    "framer-motion": "^11.0.24",
+    "install": "^0.13.0",
+    "next": "^15.1.5",
+    "next-sitemap": "^4.2.3",
+    "postcss": "^8.5.6",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-redux": "^9.2.0",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1",
+    "tailwindcss": "^3.4.19",
+    "vaul": "^0.9.0"
+  }
+}

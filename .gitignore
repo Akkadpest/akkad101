@@ -1,0 +1,51 @@
+# Ignore Node.js build artifacts
+node_modules/
+.next/
+
+# Ignore environment variables file
+.env
+
+# Ignore development server log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor-related files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swn
+*~
+*.bak
+
+# Ignore build outputs
+/out/
+
+# Ignore package-lock.json (npm)
+package-lock.json
+
+# Ignore yarn.lock (Yarn)
+yarn.lock
+
+# Ignore .idea/ directory created by JetBrains IDEs
+.idea/
+
+# Ignore Jest coverage folder
+coverage/
+
+# Ignore Cypress folder
+cypress/
+
+# Ignore .next/ in development and production folders
+**/.next/
+
+# Local env files (contain API keys)
+.env*.local
+.env.*
+

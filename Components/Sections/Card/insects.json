@@ -1,0 +1,306 @@
+{
+    "ants": [
+      {
+        "id": 1,
+        "title": "السمسوم",
+        "image": "/path/to/ant-image-1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "نمل السكري",
+        "image": "/path/to/ant-image-2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "النمل الناري",
+        "image": "/path/to/ant-image-3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "نمل النجار",
+        "image": "/path/to/ant-image-4.jpg"
+      }
+    ],
+    "termites": [
+      {
+        "id": 1,
+        "title": "نمل الخشب الجاف",
+        "image": "images/termites_page/img/drywood-termites.jpg",
+        "description" : "نمل الخشب الجاف يعتبر من اكثر انواع النمل الابيض المتواجد في دولة الامارات العربيه المتحدة ( دبي – الشارقة – ابوظبي ) يقوم بالظهور على الابواب الخشبية والشبيابيك يتطلب علاجة الحقن والجدار الناري يقوم بتدمير الاخشاب والابنية ويتميز بسرعة انتشارة في المبنى",
+        "treatmenturl" : "علامات-نمل-الابيض-الجاف"
+      },
+      {
+        "id": 2,
+        "title": "فورمسان",
+        "image": "images/termites_page/img/formosan-termite.png",
+        "description" : "نمل فورمسان من انواع النمل الذي يظهر في الاساسات الجدارن وكذلك الاخشاب يتميز بسرعم التكاثر فيه ويحتاج الى صيانة بعد المعالجة لكثرة اعداده ومملكاته",
+        "treatmenturl" : "اتصل-بنا"
+      },
+      {
+        "id": 3,
+        "title": "داميس",
+        "image": "images/termites_page/img/dampwood-termite.jpg",
+        "description" : "ذا النوع من انواع النمل الابيض نادر الظهور لكن محتمل الاصابة بة , ويحتاج الى مختص لمعرفة نوع الاصابة بهذا النوع من النمل يتغذى كذلك على السليلوز المتواجد في الاخشاب يقوم بتدمير الابنية والاخشاب كذلك",
+        "treatmenturl" : "اتصل-بنا"
+      }
+     
+    ],
+    "cockroaches": [
+      {
+        "id": 1,
+        "title": "Gel treatment",
+        "image": "/images/new/gel.png",
+        "description" : "pesticide formulations applied in targeted areas to control insects, particularly bed bugs, ants and cockroaches, by attracting them to consume the gel and transfer it to their colony or nest. ",
+        "treatmenturl" : "/cockroaches-gel-products"
+      },
+      {
+        "id": 2,
+        "title": "Suspend SC Insecticide",
+        "image": "/images/new/sc.png",
+        "description" : "Suspend SC is a versatile insecticide that provides broad-spectrum control of various pests and offers long-lasting residual protection when applied to surfaces.",
+        "treatmenturl" : "/cockroaches-suspend-sc-insecticide"
+      },
+      {
+        "id": 3,
+        "title": "IGR Station ",
+        "image": "/images/new/station.png",
+        "description" : "designed to disrupt the life cycle of insects by preventing them from reaching maturity, effectively controlling infestations.",
+        "treatmenturl" : "/cockroaches-igr-station"
+      },
+      {
+        "id": 4,
+        "title": "Catchmaster 100i Insect Monitors (Pack of 4)",
+        "image": "/images/new/catchmaster.png",
+        "description" : "adhesive traps used to monitor and capture crawling insects, helping to detect infestations and assess pest control efficacy. ",
+        "treatmenturl" : "/cockroaches-catchmaster"
+      }
+     
+     
+    ],
+    "antsproducts": [
+      {
+        "id": 1,
+        "title": "Ant gel treatment",
+        "image": "images/new/gel.png",
+        "description" : "A highly effective ant gel bait designed to eliminate entire ant colonies by attracting and killing worker ants. ",
+        "treatmenturl" : "/cockroaches-gel-products"
+      },
+      {
+        "id": 2,
+        "title": "SC Insecticide",
+        "image": "images/new/sc.png",
+        "description" : "A powerful non-repellent liquid insecticide used to control ants by eliminating entire colonies through contact and transfer. ",
+        "treatmenturl" : "/cockroaches-suspend-sc-insecticide"
+      },
+      {
+        "id": 3,
+        "title": "IGR Station ",
+        "image": "images/new/station.png",
+        "description" : "An insect growth regulator that targets ants by disrupting their ability to mature, controlling infestations long-term. ",
+        "treatmenturl" : "/cockroaches-igr-station"
+      },
+      {
+        "id": 4,
+        "title": "Catchmaster 100i Insect Monitors (Pack of 4)",
+        "image": "images/new/catchmaster.png",
+        "description" : "Adhesive insect monitors used to trap and track ant activity, aiding in early detection and control of infestations.",
+        "treatmenturl" : "/cockroaches-catchmaster"
+      }
+     
+     
+    ],
+    "rats": [
+      {
+        "id": 1,
+        "title": "Tomcat Rat Poison",
+        "image": "/images/new/rat-poison.webp",
+        "description" : "Highly effective rat poison for controlling rodent infestations. Works quickly and can be used both indoors and outdoors.",
+        "treatmenturl" : "/"
+      },
+      {
+        "id": 2,
+        "title": "Victor Electronic Rat Trap",
+        "image": "/images/new/victor.webp",
+        "description" : "Kills rats quickly and humanely with high-voltage shock. Easy to use and clean, with a no-touch disposal system.",
+        "treatmenturl" : "/"
+      },
+      {
+        "id": 3,
+        "title": "JT Eaton Bait Block",
+        "image": "/images/new/bait-block.webp",
+        "description" : "Bait blocks are effective for long-term control of rat colonies. Weather-resistant, suitable for outdoor use.",
+        "treatmenturl" : "/"
+      },
+      {
+        "id": 4,
+        "title": "Rat Zapper Classic",
+        "image": "/images/new/zapper.webp",
+        "description" : "Battery-operated trap that eliminates rats quickly and easily. Ideal for indoor use and requires no harmful chemicals.",
+        "treatmenturl" : "/"
+      }
+    ],
+    "antiTermiteProducts": [
+  {
+    "id": 1,
+    "title": "Termidor SC",
+    "image": "images/new/termidor-sc.webp",
+    "description": "Very effective for preventing subterranean termites from entering buildings. Long-lasting protection.",
+    "treatmenturl" : "/termindor-sc",
+    "headertitle" : "products-joson"
+    
+  },
+  {
+    "id": 2,
+    "title": "Spectracide Terminate",
+    "image": "images/new/terminate.webp",
+    "description": "Targets the entire colony, eco-friendly since the toxic substance is limited to the bait.",
+    "treatmenturl" : "/spectracide-terminate"
+  },
+  {
+    "id": 3,
+    "title": "Bora-Care",
+    "image": "images/new/bora-care.webp",
+    "description": " Ideal for protecting wood in vulnerable areas (e.g., during construction or on existing structures). Helps prevent future infestations.",
+    "treatmenturl" : "/bora-care"
+  },
+  {
+    "id": 4,
+    "title": "Termidor Foam",
+    "image": "images/new/termidor-foam.webp",
+    "description": "Great for targeting drywood termites and hard-to-reach areas. Expands into cracks and voids where liquid termiticides may not reach.",
+    "treatmenturl" : "/termidor-foam"
+  }
+],
+"pestControlInDubaiMall": [
+  {
+    "id": 1,
+    "title": "Professional Pest Control Service",
+    "image": "images/new/professional.webp",
+    "phone": "044251557",
+    "treatmenturl" : "/",
+    "description": "Offering comprehensive pest control solutions in Dubai Mall, Professional Pest Control Services specializes in safe and effective treatments for various pests. Known for quick response and reliable services."
+  },
+  {
+    "id": 2,
+    "title": "Akkad Pest Control",
+    "image": "images/new/akkad (2) (1).webp",
+    "phone": "042521009",
+    "treatmenturl" : "/",
+    "description": "Akkad Pest Control provides tailored pest management services in Dubai Mall, focusing on maintaining clean, pest-free environments with eco-friendly options."
+  },
+  {
+    "id": 3,
+    "title": "Dubai Mall Pest Control",
+    "image": "images/new/mall.png",
+    "phone": "0504001344",
+    "treatmenturl" : "/",
+    "description": "Dubai Mall Pest Control delivers specialized pest solutions across restaurants, shops, and common areas within Dubai Mall, ensuring a high standard of cleanliness and safety."
+  },
+  {
+    "id": 4,
+    "title": "Downtown Pest Control",
+    "image": "images/new/down-town.webp",
+    "phone": "043966211",
+    "treatmenturl" : "/",
+    "description": "With expertise in urban pest control, Downtown Pest Control provides effective services in Dubai Mall, focusing on long-term pest prevention and customer satisfaction."
+  }
+],
+"WebsiteUae": [
+  {
+    "id": 1,
+    "title": "",
+    "image": "images/homepage/1.png",  
+    "phone": "600530003",
+    "treatmenturl": "https://icp.gov.ae/",
+    "description": "The ICP eChannel portal serves residents in Abu Dhabi, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, and Fujairah, providing services such as visa application tracking, fine payment, and residency inquiries."
+  },
+  {
+    "id": 2,
+    "title": "",
+    "image": "images/homepage/2.png",  
+    "phone": "8005111",
+    "treatmenturl": "https://gdrfad.gov.ae/",
+    "description": "GDRFA Dubai offers residents in Dubai access to services including visa status checks, fine payments, and residency application services through its online portal."
+  },
+  {
+    "id": 3,
+    "title": "",
+    "image": "images/homepage/3.png",  
+    "phone": "8005000",
+    "treatmenturl": "https://moi.gov.ae/",
+    "description": "The Ministry of Interior provides services such as visa fines payment, status checks, and immigration services for residents across the UAE."
+  },
+  {
+    "id": 4,
+    "title": "",
+    "image": "images/homepage/4.png",  
+    "phone": "8003333",
+    "treatmenturl": "https://www.adpolice.gov.ae/",
+    "description": "Abu Dhabi Police’s portal allows residents to check visa-related fines, traffic violations, and access residency-related services within Abu Dhabi."
+  }
+],"organicPestControlSteps": [
+    {
+      "id": 1,
+      "title": "Keep Your Environment Clean and Sealed",
+      "description": "Regularly clean up areas that attract pests, like kitchens, corners, and outdoor spaces. Seal cracks and gaps in doors, windows, and walls to prevent pests from entering.",
+      "image": "/images_seo/image_5/kitchin.webp",
+      "treatmenturl": "/"
+    },
+    {
+      "id": 2,
+      "title": "Introduce Natural Predators",
+      "description": "Encourage or introduce beneficial insects like ladybugs or birds to control pests naturally. They help keep pest populations down without harming the environment.",
+      "image": "/images_seo/image_5/bird-eat-insect.webp",
+      "treatmenturl": "/"
+    },
+    {
+      "id": 3,
+      "title": "Use Organic Sprays and Natural Deterrents",
+      "description": "Use natural options like neem oil, garlic spray, or a mild soap solution. These can be sprayed directly on pests or on plants to prevent infestations.",
+      "image": "/images_seo/image_5/organic-spray.webp",
+      "treatmenturl": "/"
+    },
+    {
+      "id": 4,
+      "title": "Regular Monitoring and Maintenance",
+      "description": "Frequently check for signs of pests so you can address them early. Simple, consistent maintenance like removing debris and keeping plants healthy can prevent infestations.",
+      "image": "/images_seo/image_5/removing-debris.webp",
+      "treatmenturl": "/"
+    }
+  ],"organicPestControl": [
+    {
+      "id": 1,
+      "title": "Neem Oil Spray",
+      "image": "/images_seo/image_5/neem.png",
+      "description": "Derived from neem tree seeds, neem oil is effective against a wide range of garden pests, including aphids, mites, and whiteflies. It interferes with pest hormone systems, preventing them from maturing and reproducing.",
+      "treatmenturl": "/"
+    },
+    {
+      "id": 2,
+      "title": "Insecticidal Soap",
+      "image": "/images_seo/image_5/insectcidal-soap.png",
+      "description": "Made from plant-based fatty acids, insecticidal soap works by breaking down the outer layers of soft-bodied insects, such as aphids, spider mites, and mealybugs. Safe for most plants, effective for indoor and outdoor use.",
+      "treatmenturl": "/"
+    },
+    {
+      "id": 3,
+      "title": "Diatomaceous Earth",
+      "image": "/images_seo/image_5/diatomite.png",
+      "description": "A fine powder made from fossilized algae, it dehydrates pests like ants, fleas, and slugs. Safe to sprinkle in gardens or around the house.",
+      "treatmenturl": "/"
+    },
+    {
+      "id": 4,
+      "title": "Garlic Barrier Spray",
+      "image": "/images_seo/image_5/garlic.png",
+      "description": "A natural garlic-based spray that repels pests like mosquitoes, aphids, and beetles. Its smell fades quickly for humans but deters pests for several weeks.",
+      "treatmenturl": "/"
+    }
+]
+
+
+
+
+
+  }
+  

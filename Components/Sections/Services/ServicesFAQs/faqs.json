@@ -1,0 +1,72 @@
+{
+    "AuntsControlApartment": [
+        {
+            "q": "How can i book an appintment for services ?",
+            "a": "booking an appointment can easly done by calling our land line or vila App"
+        },
+        {
+            "q": "How much will cost Services treatment for ants control for apartment ?",
+            "a": "The cost for ant treatment is similar to cockroach treatment. Services with warranty can start from 157 AED including VAT for studio apartments, and for larger apartment sizes, the cost may be 189 AED or more."
+        },
+        {
+            "q": "What are the fees for rescheduling an appointment ?",
+            "a": "There is no extra charge for rescheduling appointments. All payments are due on the first day, and the remainder will cover our work to eliminate Ants control and provide a 6-month warranty."
+        }
+    ],
+    "BedBugsControl": [
+        {
+            "q": "When should I schedule the next session ?",
+            "a": "Customers must book a second session for bed bug treatment, as our experience indicates that two sessions are required. The first session is to eliminate adults, and the second session is to target the next generation"
+        },
+        {
+            "q": "What cost for bed bugs treatment ?",
+            "a": "The cost for bed bug treatment depends on the number of mattresses and the size of the premises. It can range from a minimum of 250 AED up to 1000 AED. The reason for the higher price of bed bug treatment is the necessity for multiple treatments, which can be up to three times."
+        },
+        {
+            "q": "What are the fees for rescheduling an appointment",
+            "a": "There is no extra charge for rescheduling appointments. All payments are due on the first day, and the remainder will cover our work to eliminate bed bugs and provide a 6-month warranty."
+        }
+    ],
+    "CockroachesControlApartment": [
+        {
+            "q": "How many Times Can i call out with my 6 Months pest Control ?",
+            "a": "You can scedule an appointment as long as you have pest infextation again with warranty pest control time."
+        },
+        {
+            "q": "Can I transfer my Services to Another location ?",
+            "a": "You can reschedule an appointmentm by Call Our Phone Number and Tell us your Mpnilbe phone that you booked with Akkad A services , our Team will immedialy dedytc your Pest Control Contract in our system , Choose your suitable data and time for pst Control Services."
+        },
+        {
+            "q": "What Chargeing fees For rescheduiling An appointmetnt ?",
+            "a": "Once you want reschdule an appointment , we will check your 6 months contract period , if you still in warranty period , all services will be free , if expired need to renew your six months services."
+        }
+    ],
+    "CockroachesControlVilla": [
+        {
+            "q": "How many Times Can i call out with my 6 Months pest Control ?",
+            "a": "You can scedule an appointment as long as you have pest infextation again with warranty pest control time"
+        },
+        {
+            "q": "Can I transfer my Services to Another location ?",
+            "a": "You can reschedule an appointmentm by Call Our Phone Number and Tell us your Mpnilbe phone that you booked with Akkad A services , our Team will immedialy dedytc your Pest Control Contract in our system , Choose your suitable data and time for pst Control Services"
+        },
+        {
+            "q": "What Chargeing fees For rescheduiling An appointmetnt ?",
+            "a": "Once you want reschdule an appointment , we will check your 6 months contract period , if you still in warranty period , all services will be free , if expired need to renew your six months services"
+        }
+    ],
+    "RatControlApartment": [
+        {
+            "q": "How can i book an appintment for services ?",
+            "a": "booking an appointment can easly done by calling our land line or vila App"
+        },
+        {
+            "q": "why should i do outdoor services?",
+            "a": "Ants typically live in colonies, and finding ants inside a home often means they are searching for food to feed their colonies. These ant colonies are usually located outdoors in areas such as the garden or front yard of villa-type residences"
+        },
+        {
+            "q": "What are the fees for rescheduling an appointment",
+            "a": "There is no extra charge for rescheduling appointments. All payments are due on the first day, and the remainder will cover our work to eliminate Ants Colonies and provide a 6-month warranty."
+        }
+    ]
+}

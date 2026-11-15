@@ -1,0 +1,100 @@
+{
+    "contact_page": [
+       {
+            "title": "Akkad Pest Control",
+            "name_url":"/../location/pest-control-dubai/contact-us",
+            "name": "Dubai Head Office",
+            "sub_title": "Barsha height , sheikha noora tower - Ofiice 403",
+            "tel": [
+                "04 39 66 211",
+                "04 252 1009"
+            ],
+            "buttons": {
+                "wa_btn": {
+                  "title": "Book via WhatsApp",
+                  "link": "https://wa.me/+971504001344"
+                },
+                "call_btn": {
+                  "title": "Call us Now",
+                  "link": "tel:043966211"
+                }
+              },
+            "mobile": "050 400 1344",
+            "po_box": "234341",
+            "email": "info@pestcontrol.ae",
+            "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115619.31346521864!2d55.03138374335938!3d25.098356000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69bd2306845f%3A0x3aabf7fb0ac5932d!2sAkkad%20Pest%20Control%20Services!5e0!3m2!1sen!2sin!4v1705917466103!5m2!1sen!2sin"
+        },
+        {
+            "title": "Akkad Pest Control",
+            "name_url":"/professional-pest-control-services-in-abu-dhabi",
+            "name": "Abu Dhabi",
+            "sub_title": "Al Tawin Street - Behind Adnoc Pertol Station - Bin yas tower - Office 1104",
+            "tel": [
+                "04 39 66 211",
+                "04 252 1009"
+            ],
+            "buttons": {
+                "wa_btn": {
+                  "title": "Book via WhatsApp",
+                  "link": "https://wa.me/+971504001344"
+                },
+                "call_btn": {
+                  "title": "Call us Now",
+                  "link": "tel:043966211"
+                }
+              },
+            "mobile": "050 400 1344",
+            "po_box": "234341",
+            "email": "info@pestcontrol.ae",
+            "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d465132.9732764908!2d54.2289643279561!3d24.386473916422997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e440f723ef2b9%3A0xc7cc2e9341971108!2sAbu%20Dhabi!5e0!3m2!1sen!2sae!4v1725947983340!5m2!1sen!2sae"
+        },
+        {
+            "title": "Akkad Pest Control",
+            "name_url":"/pest-control-sharjah",
+            "name": "Sharjah",
+            "sub_title": "JLT - Cluster X - Ground Floor - Buhliba Tower+- Shop 114",
+            "tel": [
+                "04 39 66 211",
+                "04 252 1009"
+            ],
+            "buttons": {
+                "wa_btn": {
+                  "title": "Book via WhatsApp",
+                  "link": "https://wa.me/+971504001344"
+                },
+                "call_btn": {
+                  "title": "Call us Now",
+                  "link": "tel:043966211"
+                }
+              },
+            "mobile": "050 400 1344",
+            "po_box": "234341",
+            "email": "info@pestcontrol.ae",
+            "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115408.87751906947!2d55.463877079627245!3d25.3200769691632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5f5fede7964b%3A0x2a830aa19c1f6d89!2sSharjah!5e0!3m2!1sen!2sae!4v1725948266211!5m2!1sen!2sae"
+        },
+        {
+            "title": "Akkad Pest Control",
+            "name_url":"/pest-control-ajman",
+            "name": " Ajman",
+            "sub_title": "JLT - Cluster X - Ground Floor - Buhliba Tower+- Shop 114",
+            "tel": [
+                "04 39 66 211",
+                "04 252 1009"
+            ],
+            "buttons": {
+                "wa_btn": {
+                  "title": "Book via WhatsApp",
+                  "link": "https://wa.me/+971504001344"
+                },
+                "call_btn": {
+                  "title": "Call us Now",
+                  "link": "tel:043966211"
+                }
+              },
+            "mobile": "050 400 1344",
+            "po_box": "234341",
+            "email": "info@pestcontrol.ae",
+            "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57664.82455606046!2d55.484749969153626!3d25.40308549319819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5764dd8fbe79%3A0xcda090de6445a819!2sAjman!5e0!3m2!1sen!2sae!4v1725948394165!5m2!1sen!2sae"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.pestcontrol.ae
+
+# Sitemaps
+Sitemap: https://www.pestcontrol.ae/sitemap.xml
